@@ -1,5 +1,5 @@
 # Ulaa-SRMIST-Pixelothan-25
-Ulaa-SRMIST Pixelothan'25 YC Hacker submission
+Ulaa-SRMIST Pixelothan'25 YC Hacker submission.
 
 ![image](https://github.com/user-attachments/assets/1bc8dbb7-7084-47ab-aecd-b0f4cea25166)
 
