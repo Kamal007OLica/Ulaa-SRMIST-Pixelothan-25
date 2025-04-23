@@ -7,3 +7,5 @@ Ulaa-SRMIST Pixelothan'25 YC Hacker submission.
 
 
 ![image](https://github.com/user-attachments/assets/2c6275af-83a0-46c7-aa52-08320cb61175)
+
+---
